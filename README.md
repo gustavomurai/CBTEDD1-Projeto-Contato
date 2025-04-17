@@ -24,3 +24,8 @@ Este projeto foi desenvolvido por **[Gustavo Murai](https://github.com/gustavomu
 - 🔗 [Portfólio no Behance](https://www.behance.net/Muraiart)
 - 📑 [GitHub](https://github.com/gustavomurai)
 
+
+Este projeto foi desenvolvido por **[Igor Murai](https://github.com/IgorMurai)**.
+
+- 🔗 [Portfólio no Behance](https://www.behance.net/IgorMurai)
+- 📑 [GitHub](https://github.com/IgorMurai)
